@@ -57,10 +57,9 @@ The following **additional** features are implemented:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]()
 
-
-## License
+https://www.loom.com/share/e6f62d2116734b0280e01a216dab679d
 
 Copyright [Elbek Bakhronbekov]
 
@@ -75,3 +74,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
