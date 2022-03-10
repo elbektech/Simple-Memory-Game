@@ -63,6 +63,7 @@ The following **additional** features are implemented:
 [My 5-minute Interview Recording]()
 
 * https://www.loom.com/share/e6f62d2116734b0280e01a216dab679d
+* https://www.w3schools.com/css/css_colors.asp
 
 Copyright [Elbek Bakhronbekov]
 
