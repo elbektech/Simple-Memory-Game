@@ -46,7 +46,7 @@ The following **additional** features are implemented:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 * https://www.w3schools.com/css/css_font.asp
-
+* https://www.w3schools.com/css/css_colors.asp
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 * Overall, the process was not so hard but I was a little confused to set up correctly a glitch project because my glitch settings were different than the given instructions. Although, it took me some time to get used to the glitch configurations, I was able to overcome by following instructions and by playing around in Glitch IDE. Another challenge, I had to overcome was building the game interface in HTML, since I used a default index.html, I had to figure out what does each line performs because it helped me to know whether some portions of code to delete or save.
 
@@ -63,7 +63,7 @@ The following **additional** features are implemented:
 My 5-minute Interview Recording
 
 * https://www.loom.com/share/e6f62d2116734b0280e01a216dab679d
-* https://www.w3schools.com/css/css_colors.asp
+
 
 Copyright [Elbek Bakhronbekov]
 
