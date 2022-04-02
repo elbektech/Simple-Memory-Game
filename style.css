@@ -3,12 +3,14 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: slategrey;
+  background-image: url("https://cdn.glitch.global/8fc8c338-ea86-4b6f-93b7-9656cca11db9/5cf2660af5f4214def7166dc7a7c8062.jpg?v=1648814099240");
   color: white;
 }
 
 h1 {
-  font-family: verdana, arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
+  color: purple;
+  
 }
 
 /* Button - Add it from the README instructions */
@@ -58,6 +60,14 @@ border-radius: 10px;
 
 #button4:active, #button4.lit {
     background:yellow;
+}
+
+#button5 {
+    background: mediumslateblue;
+}
+
+#button5:active, #button5.lit {
+  background:indigo;
 }
 
 
