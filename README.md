@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 ![](https://i.imgur.com/7wf5oQw.gif)
 ![]![walkthrough](https://user-images.githubusercontent.com/90726406/159192840-3c65100c-5316-49dd-8494-af83b450b561.gif)
 
+![](![light](https://user-images.githubusercontent.com/90726406/161368291-36fda062-098b-4001-81cd-01c2d6afb7f2.gif)
 
-![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
